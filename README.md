@@ -1,1 +1,2 @@
 # Banking-Investment-Prediction-Using-Pycaret
+The aim of this AI/ML project is to predict investment opportunities in the banking sector using a dataset specifically tailored for investment prediction. Leveraging the power of Pycaret, a Python library for automating the end-to-end machine learning process, we intend to build a robust model that can provide valuable insights into potential investment choices within the banking industry
